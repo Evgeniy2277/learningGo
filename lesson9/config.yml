@@ -1,0 +1,12 @@
+# config.yml
+
+server:
+  host: 127.0.0.1
+  port: 8080
+  name: Go student
+  count: 5
+  timeout:
+    server: 30
+    read: 15
+    write: 10
+    idle: 2
